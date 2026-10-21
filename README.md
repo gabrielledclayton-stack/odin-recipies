@@ -1,1 +1,1 @@
-"Hello! This is a small project based on recipies to display the current HTML skills I've learned so far." 
+"Hello! This is a small project based on recipies to display the current HTML skills I've learned so far."
